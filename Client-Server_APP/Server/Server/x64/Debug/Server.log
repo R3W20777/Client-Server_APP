@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\Карен\Desktop\Работа\С++\Client-Server_APP\Server\Server.cpp(135,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Карен\Desktop\Работа\С++\Client-Server_APP\Server\Server.cpp(158,1): warning C4715: ProcessClient: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> C:\Users\Карен\Desktop\Работа\С++\Client-Server_APP\Server\x64\Debug\Server.exe
